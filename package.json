@@ -1,0 +1,23 @@
+{
+  "name": "gdid",
+  "version": "2.1.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "djs.musicbot": "^1.2.1",
+    "discord.js-musicbot": "^14.0.7",
+    "discord.js-musicbot-v2": "^13.9.3",
+    "discord.js": "^12.5.1",
+    "ffmpeg-static": "^4.2.7",
+    "ffmpeg": "^0.0.4",
+    "fluent-ffmpeg": "^2.1.2",
+    "opusscript": "^0.0.7",
+    "ytdl-core": "^4.1.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Feuzya",
+  "license": "ISC"
+}
